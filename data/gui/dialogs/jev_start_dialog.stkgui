@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stkgui>
+    <div x="5%" y="6%" width="90%" height="88%" layout="vertical-row">
+        <label width="100%" height="fit" text_align="center"
+               text="SUPERTUXKART  /  LOCAL AI DRIVER" />
+
+        <spacer height="3%" width="100%" />
+
+        <header width="100%" height="fit" text_align="center"
+                text="JEV IS READY" />
+
+        <spacer height="5%" width="100%" />
+
+        <label width="100%" text_align="center" word_wrap="true"
+               text="Jev reads the live race state and chooses each control input." />
+
+        <spacer height="5%" width="100%" />
+
+        <label width="100%" text_align="center"
+               text="10 Hz CONTROL    |    1 LAP    |    LOCAL BRIDGE" />
+
+        <spacer proportion="1" width="100%" />
+
+        <button id="start" width="58%" height="22%" align="center"
+                text="START JEV" />
+
+        <spacer height="3%" width="100%" />
+
+        <label width="100%" height="fit" text_align="center"
+               text="Click the button or press Enter to begin" />
+    </div>
+</stkgui>
